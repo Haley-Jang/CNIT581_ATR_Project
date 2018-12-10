@@ -1,3 +1,10 @@
+    '''
+    Author: Hyeonae Jang
+    Last modified: 12/06/2018
+    This moudle is to have a real-time TTS phone call on PC(MacOS) by using Google Cloud for TTS engine,
+    Google Hangout for free internet call, and Soundflower for routing external sound to internal sound. 
+    '''
+
 # Google's CLOUD TEXT-TO-SPEECH https://cloud.google.com/text-to-speech/
 import webbrowser
 from google.cloud import texttospeech
