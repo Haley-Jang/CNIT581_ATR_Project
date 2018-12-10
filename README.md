@@ -6,5 +6,5 @@
 > To run the system GUI, run TTScall.py.
 
 
-![System GUI overview](https://github.com/Haley-Jang/CNIT581_ATR_Project/PC_GUI.png)
+![System GUI overview](https://github.com/Haley-Jang/CNIT581_ATR_Project/blob/master/PC_GUI.png)
       
