@@ -1,11 +1,12 @@
 # A real time TTS call PC application 
-#### This is the repository created for the CNIT 581 ATR class group project.
+## This is the repository created for the CNIT 581 ATR class group project.
 
-###### It is required to manually install Soundflower as well as libraries used in this system.
+#### It is required to manually install Soundflower as well as libraries used in this system.
 
 > To run the system GUI and google hangout, run TTScall.py
 
-* Select language, gender that you want to apply to TTS sound (Supported language: https://cloud.google.com/text-to-speech/docs/voices)
+* Select language, gender that you want to apply to TTS sound 
+(Supported language: https://cloud.google.com/text-to-speech/docs/voices)
 * Make a call in the google hangout
 * Select soundflower(2ch) as Microphone in the google hangout
 * Press 'Send' button to notify TTS information to call receiver
