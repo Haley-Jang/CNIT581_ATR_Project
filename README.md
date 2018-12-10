@@ -6,7 +6,7 @@
 > To run the system GUI and google hangout, run TTScall.py
 
 * Select language, gender that you want to apply to TTS sound 
-![Supported language] (https://cloud.google.com/text-to-speech/docs/voices)
+** [Supported language] (https://cloud.google.com/text-to-speech/docs/voices)
 * Make a call in the google hangout
 * Select soundflower(2ch) as Microphone in the google hangout
 * Press 'Send' button to notify TTS information to call receiver
